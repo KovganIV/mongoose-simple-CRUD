@@ -1,7 +1,7 @@
 {
   "name": "mongoose-simple-crud",
   "description": "Simple mongoose CRUD controllers builder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
   }
 }
